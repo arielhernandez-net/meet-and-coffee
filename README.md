@@ -4,5 +4,5 @@ Meet & coffee website
 
 ## Public view
 
-- ** Visitar [Meet and Coffee](https://meet-and-coffee.onrender.com/) 
+- ** Visitar (https://meet-and-coffee.onrender.com/) 
   
